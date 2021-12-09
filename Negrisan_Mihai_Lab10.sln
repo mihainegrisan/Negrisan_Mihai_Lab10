@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negrisan_Mihai_Lab10", "Negrisan_Mihai_Lab10\Negrisan_Mihai_Lab10.csproj", "{B8069E14-DC5E-4A59-B1F9-BF8B9930CDC4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPCClient", "gRPCClient\gRPCClient.csproj", "{6DCED41E-900A-46AD-969B-7390F329132C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B8069E14-DC5E-4A59-B1F9-BF8B9930CDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8069E14-DC5E-4A59-B1F9-BF8B9930CDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8069E14-DC5E-4A59-B1F9-BF8B9930CDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DCED41E-900A-46AD-969B-7390F329132C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCED41E-900A-46AD-969B-7390F329132C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCED41E-900A-46AD-969B-7390F329132C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCED41E-900A-46AD-969B-7390F329132C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
